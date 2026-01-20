@@ -1,0 +1,12 @@
+# Teraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+
+# Terraform lock
+.terraform.lock.hcl
+
+# Kubernetes
+kubeconfig
